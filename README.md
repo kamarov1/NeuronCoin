@@ -1,7 +1,7 @@
 # ⚡ Neuron Network (NRN)
 
 <div align="center">
-  <img src="./neuro.pjg" alt="Neuron Logo" width="200"/>
+  <img src="./neuro.jpg" alt="Neuron Logo" width="200"/>
   
   [![Avalanche Node](https://img.shields.io/badge/Avalanche-Node%20Ready-red)](https://avax.network)
   [![Whitepaper](https://img.shields.io/badge/Whitepaper-v1.0-blue)](https://github.com/neuron-network/docs/blob/main/whitepaper.md)
@@ -27,10 +27,15 @@
 
 graph LR
 A[CPU Miner] --> B{Validação}
+
 B -->|Proof-of-Work| C[RandomX+]
+
 B -->|Proof-of-Stake| D[Staking Pool]
+
 C --> E[Bloco Validado]
+
 D --> E
+
 E --> F[Rede Avalanche]
 
 
