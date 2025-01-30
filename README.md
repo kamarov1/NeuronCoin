@@ -94,7 +94,7 @@ Participe das decisões do protocolo:
 
 [![Whitepaper](https://img.shields.io/badge/📄-Whitepaper_Technical-blue)](https://github.com/neuron-network/docs/blob/main/whitepaper.md)
 [![Documentação](https://img.shields.io/badge/📚-Documentação_Completa-green)](https://docs.neuron.network)
-[![YouTube](https://img.shields.io/badge/space_invader-Discord-red)](https://discord.gg/FPyrHcZJ)
+[![YouTube](https://img.shields.io/badge/👾-Discord-red)](https://discord.gg/FPyrHcZJ)
 
 </div>
 
