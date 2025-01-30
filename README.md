@@ -55,23 +55,10 @@ E --> F[Rede Avalanche]
 - Linux/Windows 10+
 
 ### Passo a Passo
-1. **Instale o Minerador Oficial**  
 
-       git clone https://github.com/neuron-network/miner
+  EM DESENVOLVIMENTO!!!
 
-       cd miner && ./install.sh
-
-
-3. **Configure sua Carteira**  
-
-       ./neuron-miner --config wallet=YOU
-
-3. **Inicie a Mineração**  
-
-       ./neuron-miner --start --threads $(nproc)
-
-
-[📘 Guia Completo de Mineração](https://github.com/neuron-network/miner/wiki) |
+[📘 Guia Completo de Mineração](https://github.com/neuron-miner.git) |
 
 ---
 
