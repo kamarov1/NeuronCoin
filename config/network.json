@@ -1,0 +1,8 @@
+{
+    "network": {
+        "name": "Avalanche C-Chain",
+        "chainId": 43114,
+        "rpcUrl": "https://api.avax.network/ext/bc/C/rpc",
+        "explorer": "https://snowtrace.io/"
+    }
+}
