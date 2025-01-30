@@ -92,15 +92,10 @@ E --> F[Rede Avalanche]
 Participe das decisões do protocolo:
 
 1. Adquira NRN
-2. Delegue votos via:
 
-       neuron-cli delegate --wallet YOUR_WALLET --amount 1000
+2. Delegue votos via discord
 
-
-3. Vote em propostas:
-
-       neuron-cli vote --proposal 42 --choice yes
-
+3. Espere o resultado das votações e a analise do CEO
 
 [📜 Regras de Governança](https://docs.neuron.network/governance)
 
