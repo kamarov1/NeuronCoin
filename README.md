@@ -58,7 +58,7 @@ E --> F[Rede Avalanche]
 
   EM DESENVOLVIMENTO!!!
 
-[📘 Guia Completo de Mineração](https://github.com/neuron-miner.git) |
+[📘 Guia Completo de Mineração](https://kamarov1.github.io/neuron-miner/) |
 
 ---
 
@@ -84,7 +84,7 @@ Participe das decisões do protocolo:
 
 3. Espere o resultado das votações e a analise do CEO
 
-[📜 Regras de Governança](https://docs.neuron.network/governance)
+[📜 Regras de Governança](https://discordapp.com/channels/1332009296489222245/1332009296489222248)
 
 ---
 
@@ -94,7 +94,7 @@ Participe das decisões do protocolo:
 
 [![Whitepaper](https://img.shields.io/badge/📄-Whitepaper_Technical-blue)](https://github.com/neuron-network/docs/blob/main/whitepaper.md)
 [![Documentação](https://img.shields.io/badge/📚-Documentação_Completa-green)](https://docs.neuron.network)
-[![YouTube](https://img.shields.io/badge/▶️-Tutoriais_em_Vídeo-red)](https://youtube.com/neuron-network)
+[![YouTube](https://img.shields.io/badge/:space_invader:-Discord-red)](https://discord.gg/FPyrHcZJ)
 
 </div>
 
