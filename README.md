@@ -75,7 +75,7 @@ E --> F[Rede Avalanche]
 
 ---
 
-## 📊 Dados da Rede em Tempo Real
+## 📊 Dados da Rede
 
 | Métrica               | Valor              | Variação 24h |
 |-----------------------|--------------------|--------------|
@@ -87,7 +87,7 @@ E --> F[Rede Avalanche]
 
 ---
 
-## 🗳️ Governança DAO
+## 🗳️ Governança
 
 Participe das decisões do protocolo:
 
